@@ -2,6 +2,8 @@ package com.neha.algo;
 
 import java.util.ArrayList;
 
+//https://www.geeksforgeeks.org/stock-buy-sell/
+
 public class StockBuySell {
 public static void main(String[] args) {
 	StockBuySell stock = new StockBuySell();

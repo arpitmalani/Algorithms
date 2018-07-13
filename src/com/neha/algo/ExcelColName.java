@@ -1,5 +1,7 @@
 package com.neha.algo;
 
+//Print name of the excel column number lile 1=A, 26 = Z
+
 public class ExcelColName {
 	public static void main(String[] args) {
 		

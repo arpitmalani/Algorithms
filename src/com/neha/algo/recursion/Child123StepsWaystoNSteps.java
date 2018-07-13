@@ -1,5 +1,7 @@
 package com.neha.algo.recursion;
 
+//https://www.geeksforgeeks.org/count-ways-reach-nth-stair/
+
 public class Child123StepsWaystoNSteps {
 	public static void main(String[] args) {
 		System.out.println(totalWays(4,2));
